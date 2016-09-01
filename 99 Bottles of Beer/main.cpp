@@ -30,6 +30,7 @@ int main()
 
 	system("PAUSE");
 	cout << "\n\t\t\t You're all out. More Coca-Cola please!!!" << endl;
+	cout << "\n\t\t\t Hopefully the code ends up nicely on the Hub full of Gits." << endl;
 
 	system("PAUSE");
 	return 0;
