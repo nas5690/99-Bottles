@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\naveed\desktop\99 bottles of beer\99 bottles of beer\main.cpp(10): warning C4101: 'bottles': unreferenced local variable
+  99 Bottles of Beer.vcxproj -> C:\Users\Naveed\Desktop\99 Bottles of Beer\Debug\99 Bottles of Beer.exe
